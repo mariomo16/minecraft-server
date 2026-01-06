@@ -1,3 +1,4 @@
+# Configuración de mods
 ## Bosses of Mass Destruction
 ```
 "lichConfig": {
@@ -95,3 +96,10 @@ cave_mode_allowed_dimensions = [minecraft:the_nether]
 	"percentSpawnChance": 25,
 },
 ```
+
+# Código de mods
+## Better Nether
+  - Ítems eliminados de loot tables: Bloque de netherita, Mejora de netherita, Pico de netherita.
+## Deeper and Darker
+  - Cambiado el crafteo de Warden Upgrade Smithing Template, Reinforced Echo Shard
+  - Eliminado el drop de Warden Carapace en vasijas antiguas
