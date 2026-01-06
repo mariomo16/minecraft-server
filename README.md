@@ -70,6 +70,7 @@ showServerWarning: false,
 "disable_teleportation_to_dimensions": [
     "minecraft:the_end"
 ],
+"ignore_dimension_blacklists_if_same_dimension": false,
 ```
 ## Xaero's World Map
 ```
