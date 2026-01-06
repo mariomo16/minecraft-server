@@ -39,6 +39,18 @@
 [invoker]
     participate_in_raids = true
 ```
+## Marium's Soulslike Weaponry
+```
+"disable_gun_recipes": true,
+"disable_recipe_comet_spear": true,
+"disable_recipe_withered_wabbajack": true,
+"disable_recipe_mjolnir": true,
+"disable_recipe_draupnir_spear": true,
+"disable_recipe_kraken_slayer_bow": true,
+"disable_recipe_kraken_slayer_crossbow": true,
+"disable_recipe_excalibur": true,
+"withered_demon_spawnweight": 25.0,
+```
 ## RightClickHarvest
 ```
 requireHoe: true,
